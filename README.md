@@ -1,10 +1,12 @@
-# Conferencia email Sefaz NFe
+# SEFAZ NF-e Email Check
 
-Projeto para conferencia do status dos serviços de NFe do sefaz
-## Conferencia email Sefaz NFe
+Project that checks the status of the SEFAZ NF-e services
 
-Esse projeto é sobre uma conferencia em python com desenvolvimento proprio, a mesma está sendo otimizada para rodar em um banco de dados para que consiga fazer o link com um sql server e ver o que ja foi avisado ou não, e também salvar um log dos avisos para que não se repita o aviso. Ou seja, somente avise em caso de alteração do status.
-## Autores
+## SEFAZ NF-e Email Check
+
+This is a check written in Python, developed from scratch. It is being improved to run against a database so it can connect to a SQL Server and see what has already been reported or not, and also keep a log of the alerts so the same warning is not repeated. In other words, it only alerts when the status changes.
+
+## Author
 
 - [GitHub](https://github.com/Ramiriz-Leal?tab=repositories)
 - [Linkedin](https://www.linkedin.com/in/ramiriz-leal/)
